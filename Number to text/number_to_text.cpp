@@ -408,7 +408,7 @@ int main(){
 		
 		ch = getchar();
 		ch = getchar();
-		system("CLS");
+		system("CLS"); // Remove it for linux or Unix or use "clear" instead of "cls"
 	}
 	printf("\n\n\n\n\n\n\n\n\n");
 	
